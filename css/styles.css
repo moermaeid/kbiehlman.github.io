@@ -270,7 +270,7 @@ header {
     background: #000;
     z-index: -1;
     position: absolute;
-    top: -135px;
+    top: 0px;
     display: block;
 }
 
@@ -860,6 +860,16 @@ section {
 
 .navi-fix .navi li a{
     padding: 21px 21px;
+}
+
+.index .bg-header {
+    width: 100%;
+    height: 560px;
+    background: #000;
+    z-index: -1;
+    position: absolute;
+    top: -135px;
+    display: block;
 }
 
 
