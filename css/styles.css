@@ -239,7 +239,7 @@ nav .wrapper {
 .headline {
     font-family: 'Montserrat', serif;
     font-size: 57px;
-    /*margin-top: 243px;*/
+    margin-top: 40px;
     color: #f3997b;
     text-transform: uppercase;
     line-height: 0.9em;
@@ -1083,6 +1083,11 @@ nav li {
 
 .projectboxes .six.columns {
     width: 50%;
+}
+
+.headline {
+    margin-top: 240px;
+;
 }
 
 
