@@ -23,7 +23,7 @@ section{
 .content {
 	background: #131313;
     position: relative;
-    padding: 100px 0;
+    padding: 170px 0 100px;
 }
 
 h1 {
@@ -284,7 +284,6 @@ header {
 	outline: 2px solid white;
     outline-offset: -30px;
     margin-top: 50px;
-    margin-bottom: 100px;
 }
 
 .index .first .resimg:hover {
