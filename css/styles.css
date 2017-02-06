@@ -258,6 +258,7 @@ nav .wrapper {
 
 header {
     position: relative;
+    z-index: 0;
 }
 
 .scroller {
