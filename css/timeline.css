@@ -22,7 +22,7 @@ Main components
   background: url(../img/timeline-bg.png);
   /*background-size: cover;*/
   background-attachment:fixed;
-    padding: 40px 0
+      padding: 140px 0;
 }
 
 
@@ -201,8 +201,7 @@ Main components
     text-transform: uppercase;
 }
 .cd-timeline-content p, .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {
-  font-size: 13px;
-  font-size: 0.8125rem;
+  font-size: 16px;
 }
 .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {
   display: inline-block;
